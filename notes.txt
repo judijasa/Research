@@ -1,0 +1,24 @@
+
+Excerpts:
+
+P. Talkner and P. Hänggi, “Aspects of quantum work”, Phys. Rev. E 93, 022131 (2016):
+
+“One reason why work does not simply fall into the category of observables like position, linear and angular momentum and energy comes from the fact that it is meant to characterize a process rather than an instantaneous state of a system [Peter Talkner, Eric Lutz and Peter Hänggi, Phys. Rev. E 75, 050102(R) (2007).].”
+
+
+————
+
+Kurt Jacobs and Daniel A. Steck, “A Straightforward Introduction to Continuous Quantum Measurement”, arXiv:quant-ph/0611067v1
+
+“When measurement is first introduced to students of
+quantum mechanics, it is invariably treated by ignoring
+any consideration of the time the measurement takes:
+the measurement just “happens,” for all intents and purposes,
+instantaneously. […] nothing really happens instantaneously.  Even
+rapid, “single shot” measurements take some time.”
+
+Comment: A non-zero time of measurement leads to quantum back action and a precision limit for quantum measurement: https://en.wikipedia.org/wiki/Quantum_limit
+
+————
+
+
